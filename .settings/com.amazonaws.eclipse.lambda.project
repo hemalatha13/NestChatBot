@@ -1,0 +1,7 @@
+#Lambda Function Project Metadata
+#Wed Apr 05 19:43:28 EDT 2017
+lastInvokeShowLiveLog=true
+lastDeploymentFunctionName=MyFunction
+lastDeploymentBucketName=lambda-function-bucket-us-east-1-1488868424498
+lastDeploymentEndpoint=https\://lambda.us-east-1.amazonaws.com/
+lastInvokeInput={\r\n"originalRequest"\: {\r\n    "source"\: "google",\r\n    "data"\: {\r\n      "sender"\: {\r\n        "id"\: "1380462058683182"\r\n      }\r\n    }\r\n},\r\n  "id"\: "55b884b3-7053-4bc2-a74e-9d655ccc8f14",\r\n  "timestamp"\: "2017-03-19T22\:31\:00.359Z",\r\n  "lang"\: "en",\r\n  "result"\: {\r\n    "source"\: "agent",\r\n    "resolvedQuery"\: "set mode to home",\r\n    "action"\: "",\r\n    "actionIncomplete"\: false,\r\n    "parameters"\: {\r\n      "mode"\: "away",\r\n      "modeword"\: "mode",\r\n\t"pin"\:"ZKFH7XMT"\r\n    },\r\n    "contexts"\: [],\r\n    "metadata"\: {\r\n      "intentId"\: "5bd892fb-538c-419d-82ae-cc09d15821f9",\r\n      "webhookUsed"\: "true",\r\n      "webhookForSlotFillingUsed"\: "false",\r\n      "intentName"\: "storeKey"\r\n    },\r\n    "fulfillment"\: {\r\n      "speech"\: "",\r\n      "messages"\: [\r\n        {\r\n          "type"\: 0,\r\n          "speech"\: ""\r\n        }\r\n      ]\r\n    },\r\n    "score"\: 1\r\n  },\r\n  "status"\: {\r\n    "code"\: 206,\r\n    "errorType"\: "partial_content",\r\n    "errorDetails"\: "Webhook call failed. Error\: Request timeout."\r\n  },\r\n  "sessionId"\: "11199e01-a13d-4072-9e9e-b785ec1dbd18"\r\n}
